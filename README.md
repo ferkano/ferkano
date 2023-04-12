@@ -6,7 +6,7 @@
   <h1 aling="center">Hola 👋,Soy Fernando Polanco</h1>
   <h3 aling="center">
     Soy Ing.Industrial, apasionado por la tecnoligia especialmente por la web,
-    me motiva saber que siempre hay cosas nuevas que aprender, Soy
+    me motiva saber que siempre hay cosas nuevas que aprender, soy
     tranquilamente confiado, naturalmente curioso y trabajo perpetuamente para
     mejorar mis habilidades,
   </h3>
@@ -25,8 +25,8 @@
 ### About me:
 
 - Preguntame cosas de **boostrap, Javascript y React.**
-- Puedes contactarme en **fjpolanco14@gmail.com**
-- Estoy actualmente estudiando **Next js, typescript y tailwind**
+- Puedes contactarme en **fjpolanco14@gmail.com.**
+- Estoy actualmente estudiando **Next js, typescript y tailwind.**
 
 
 <div align="center">
