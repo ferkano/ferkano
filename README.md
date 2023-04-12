@@ -26,7 +26,7 @@
 
 - Preguntame cosas de **boostrap, Javascript y React.**
 - Puedes contactarme en **fjpolanco14@gmail.com.**
-- Estoy actualmente estudiando **Next js, typescript y tailwind.**
+- Estoy actualmente estudiando **Next js y tailwind.**
 
 
 <div align="center">
