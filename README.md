@@ -5,7 +5,7 @@
   />
   <h1 aling="center">Hola 👋,Soy Fernando Polanco</h1>
   <h3 aling="center">
-    Soy Ing.Industrial, apasionado por la tecnoligia especialmente por la web,
+    Soy Ing.Industrial, apasionado por la tecnologia especialmente por la web,
     me motiva saber que siempre hay cosas nuevas que aprender, soy
     tranquilamente confiado, naturalmente curioso y trabajo perpetuamente para
     mejorar mis habilidades,
